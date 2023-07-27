@@ -1,2 +1,2 @@
 # first-project-website
-My first simple project website with html and css
+My first simple project website
