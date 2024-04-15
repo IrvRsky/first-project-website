@@ -1,2 +1,2 @@
-# first-project-website
+# first-project
 My first simple project website
